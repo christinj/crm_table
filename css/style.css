@@ -1,0 +1,48 @@
+:root {
+  margin: 0;
+  padding: 0;
+  color: #0000FF;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+}
+body {
+  background-color: #f0f2f0;
+  padding: 1.5em;
+}
+.section{
+  padding-top: 3px;
+  padding-bottom: 15px;
+  padding-left: 3px;
+  padding-right: 3px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+}
+.media_chris{
+  margin-bottom: 22px;
+}
+.tab_header{
+  padding-left: -26px;
+  padding-top: 16px;
+  margin-bottom: 16px;
+}
+.tap_title{
+  padding-left: -26px;
+}
+.form-control{
+  border-radius: 9px !important;
+}
+.btn_control{
+  border-radius: 8px !important;
+  width: 250px;
+}
+.btn_control_tab{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.class_save_tab{
+  margin-top: 37px;
+}
